@@ -179,4 +179,4 @@ The AUTOMATED REPORT GENERATION project demonstrates the power of Python in auto
 With AI assistance, development was faster, cleaner, and more efficient. The ability to fetch, process, visualize, and deliver structured reports without manual intervention makes this tool not just a productivity booster but a transformative asset in any data-heavy environment.
 
 
-*OUTPUT* : 
+*OUTPUT* : https://github.com/user-attachments/assets/2be0955f-8ccf-4c9b-b4e1-cb1125a86ff9
